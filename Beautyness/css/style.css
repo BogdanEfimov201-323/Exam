@@ -110,7 +110,7 @@ color:#5C8692;
   display: flex;
   flex-direction: line;
 }
-.demo_btn{
+.form_btn{
   height: 59px;
   width: 201px;
   margin-top: auto;
@@ -250,3 +250,12 @@ a:active {
   background-color: black;
   color: #fff;
 }
+
+
+
+
+
+
+
+
+
